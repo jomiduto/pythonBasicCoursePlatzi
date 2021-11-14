@@ -1,4 +1,4 @@
-# pythonBasicCoursePlatzi
+# Curso Básico de Python
 
 Repositorio del Curso Básico de Python | Platzi
 
